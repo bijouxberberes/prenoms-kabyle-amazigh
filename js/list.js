@@ -46,6 +46,11 @@ $(function(){
 			sex:"Female"
 		},
 		{
+			name:"Lahna",
+			desc:"La tranquillité en berbère",
+			sex:"Female"
+		},
+		{
 			name:"Louiza",
 			desc:"(Pas de description)",
 			sex:"Female"
