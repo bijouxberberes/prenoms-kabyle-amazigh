@@ -181,6 +181,11 @@ $(function(){
 			sex:"Male"
 		},
 		{
+			name:"Syphax/Syfax",
+			desc:"Roi de la Numidie occidentale",
+			sex:"Male"
+		},
+		{
 			name:"Youba/Juba",
 			desc:"Roi Amazigh",
 			sex:"Male"
