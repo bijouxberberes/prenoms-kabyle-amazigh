@@ -177,7 +177,7 @@ $(function(){
 		},
 		{
 			name:"Missipsa",
-			desc:"",
+			desc:"(Pas de description)",
 			sex:"Male"
 		},
 		{
