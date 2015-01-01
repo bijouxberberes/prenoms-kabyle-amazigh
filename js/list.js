@@ -176,6 +176,11 @@ $(function(){
 			sex:"Male"
 		},
 		{
+			name:"Missipsa",
+			desc:"",
+			sex:"Male"
+		},
+		{
 			name:"Takfarinas",
 			desc:"Ancien soldat de l’armée romaine, qui a pris la tête d’une vaste insurrection contre les romaines",
 			sex:"Male"
